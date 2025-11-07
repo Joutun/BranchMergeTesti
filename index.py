@@ -1,5 +1,5 @@
 from logger import logger
-# TESTATAAN OMA TESTI!!
+# TESTATAAN OMA TESTI!! saddssd
 logger("aloitetaan")
 
 x = int(input("luku 1: "))
